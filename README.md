@@ -24,6 +24,10 @@
 ## 安装 
 
 ### Surge Module
+需要开启
+
+✅ MITM  
+✅ Scripting
 ```
 https://raw.githubusercontent.com/XueshiQiao/QClawByPass/refs/heads/main/qclaw_bypass.sgmodule
 ```
